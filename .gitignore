@@ -2,3 +2,5 @@ node_modules/
 dist/
 *.swp
 .idea/
+env/
+env/mysql.env
